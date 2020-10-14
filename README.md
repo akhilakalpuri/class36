@@ -1,2 +1,2 @@
-# class36
-vsc
+# synchronousBallMovement
+Ball moving synchronously
